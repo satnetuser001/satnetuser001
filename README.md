@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton
 - 👀 I’m interested in web backend development
 - 🌱 I’m currently learning PHP/Laravel
-- 📫 How to reach me satnetuser001@gmail.com  +380999004428
+- 📫 How to reach me satnetuser001@gmail.com  +380999004428 (Ukraine)
 
 <!---
 satnetuser001/satnetuser001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
